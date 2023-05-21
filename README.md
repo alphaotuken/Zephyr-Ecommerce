@@ -1,4 +1,4 @@
-# Anon - An eCommerce Website
+# Zephyr - An eCommerce Website
 ### BY TALO
 
 Anon is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
